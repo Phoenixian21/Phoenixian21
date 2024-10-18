@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Passionate Software Developer .</h3>
 
